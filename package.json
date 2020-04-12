@@ -1,0 +1,37 @@
+{
+  "name": "reddit_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development index.js --output main.js",
+    "build": "webpack --mode production index.js --output main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "css-loader": "^3.5.2",
+    "install": "^0.13.0",
+    "jquery": "^1.9.1",
+    "node-sass": "^4.13.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-fade-in": "^0.1.8",
+    "react-transition-group": "^1.2.1",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.3"
+  }
+}

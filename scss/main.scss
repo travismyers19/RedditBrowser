@@ -1,0 +1,41 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.bg-primary {
+    background-color: $gray-200 !important;
+}
+
+.panel {
+    padding-top: 21px;
+}
+
+.selected {
+    background-color: #dee2e6;
+    padding: 11px;
+    margin-left: 11px;
+    color: $black;
+}
+
+.selected a {
+    color: $black;
+}
+
+.unselected {
+    padding: 11px;
+}
+
+#header h1{
+    color: $red;
+    text-align: center;
+}
+
+#root {
+    margin-bottom: 121px;
+}
+
+ul {
+    padding-inline-start: 21px;
+}
+
+h5 {
+    color: $gray-400;
+}
