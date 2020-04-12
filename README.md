@@ -19,7 +19,7 @@ Install the appropriate node_modules:
 
 Open ``index.html`` in any browser.
 
-# Transpiling the source code
+# Transpiling
 
 After making any changes to the source code, transpile for development with:
 
