@@ -1,11 +1,11 @@
 # Reddit Browser
 A single-page web app built in React that allows the user to browse through hot posts on the most popular subreddits.
 
-# Dependencies
+## Dependencies
 
 The app was built with nodejs version 12.16 and npm version 6.13.
 
-# Installation
+## Installation
 
 Clone the repo:
 
@@ -15,11 +15,11 @@ Install the appropriate node_modules:
 
 ``npm install``
 
-# Viewing
+## Viewing
 
 Open ``index.html`` in any browser.
 
-# Transpiling
+## Transpiling
 
 After making any changes to the source code, transpile for development with:
 
